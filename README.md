@@ -24,7 +24,9 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thalesmacena" alt="thalesmacena" /> </p>
 <br/>
+
 ## About Me
+
 #### - 🖥️ I'm 23 years old Front-end and Back-end Developer.
 
 #### - 🎓 Computer Science Student at [Universidade Federal do Rio de Janeiro](https://ufrj.br/)
