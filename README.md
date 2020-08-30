@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Thales 👨‍💻.</h1> 
 <h3 align="center">But you can also found me as chorival 👾.</h3>
-[![HitCount](http://hits.dwyl.com/thalesmacena/thalesmacena.svg)](http://hits.dwyl.com/thalesmacena/thalesmacena)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thalesmacena" alt="thalesmacena" /> </p>
 <br/>
 
