@@ -12,7 +12,7 @@
   <a href="https://t.me/chorival">
     <img alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
   </a>
-  <a href="mailto:chorival@dcc.ufrj.br">
+  <a href="mailto: thalesmacena@gmail.com">
     <img alt="Gmail" width="22px" src="https://devicons.github.io/devicon/devicon.git/icons/google/google-original.svg" />
   </a>
   <a href="https://www.instagram.com/thalespierini/">
