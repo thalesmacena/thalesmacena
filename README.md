@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Thales 👨‍💻.</h1> 
 <h3 align="center">But you can also found me as chorival 👾.</h3>
 <br/>
+
 <p align="center">
   <a href="https://github.com/thalesmacena">
   <img alt="Github"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/github.svg"/>
@@ -21,7 +22,7 @@
     <img alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/steam.svg"/>
   </a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thalesmacena" alt="thalesmacena" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thalesmacena" alt="thalesmacena" /> </p>
 <br/>
 
 ### I'm 23 years old Front-end and Back-end Developer.
@@ -40,10 +41,10 @@
 **[LADETEC](https://www.ladetec.iq.ufrj.br/) - LABORATÓRIO DE APOIO AO DESENVOLVIMENTO TECNOLÓGICO as a scientific initiation intern 🆘**
 <br />
 
+*************
 
 ![Thales Macena Github Stats](https://github-readme-stats.vercel.app/api?username=thalesmacena&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-<br />
 
 *************
 
@@ -61,7 +62,6 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="Node.JS"  width="50" height="50"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/babel/babel-original.svg" alt="Babel"  width="50" height="50"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="React"  width="50" height="50"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/chrome/chrome-original.svg" alt="Chrome"  width="50" height="50"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="C"  width="50" height="50"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="Java"  width="50" height="50"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python"  width="50" height="50"/>
@@ -69,5 +69,6 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL"  width="50" height="50"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/yarn/yarn-original.svg" alt="Yarn"  width="50" height="50"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="VS Code"  width="50" height="50"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/chrome/chrome-original.svg" alt="Chrome"  width="50" height="50"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/trello/trello-plain.svg" alt="Trello"  width="50" height="50"/> 
 </p>
