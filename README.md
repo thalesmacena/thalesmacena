@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/thalesmacena">
-  <img alt="Github" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/github.svg"/>
+  <img alt="Github"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/github.svg"/>
   </a>
   <a href="https://www.linkedin.com/in/thalesmacena/">
     <img alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
