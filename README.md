@@ -29,7 +29,7 @@
 
 #### - 🖥️ I'm 23 years old Front-end and Back-end Developer.
 
-#### - 🎓 Computer Science Student at [Universidade Federal do Rio de Janeiro](https://ufrj.br/)
+#### - 🎓 Computer Science Student at [UFRJ - Universidade Federal do Rio de Janeiro](https://ufrj.br/)
 
 #### - 🥀 Learning PHP  <code><img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="30" height="30"/><img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="php" width="30" height="30"/></code>.
 
