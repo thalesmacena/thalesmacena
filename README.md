@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Thales 👨‍💻.</h1> 
 <h3 align="center">But you can also found me as chorival 👾.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thalesmacena" alt="thalesmacena" /> </p>
 <br/>
-
 <p align="center">
   <a href="https://github.com/thalesmacena">
   <img alt="Github"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/github.svg"/>
@@ -23,8 +21,9 @@
     <img alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/steam.svg"/>
   </a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thalesmacena" alt="thalesmacena" /> </p>
+<br/>
 
-<br />
 ### I'm 23 years old Front-end and Back-end Developer.
 
 #### - 🎓 Computer Science Student at [Universidade Federal do Rio de Janeiro](https://ufrj.br/)
