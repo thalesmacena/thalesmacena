@@ -58,9 +58,9 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="GIT"  width="50" height="50"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/gitlab/gitlab-original.svg" alt="GITLab"  width="50" height="50"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="HTML5"  width="50" height="50"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="50" height="50"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3"  width="50" height="50"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="Javascript"  width="50" height="50"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap"  width="50" height="50"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap"  width="50" height="50"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="Node.JS"  width="50" height="50"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/babel/babel-original.svg" alt="Babel"  width="50" height="50"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="React"  width="50" height="50"/>
@@ -68,7 +68,7 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="Java"  width="50" height="50"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python"  width="50" height="50"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="MySQL"  width="50" height="50"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL"  width="50" height="50"/> 
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"  width="50" height="50"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/yarn/yarn-original.svg" alt="Yarn"  width="50" height="50"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="VS Code"  width="50" height="50"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/chrome/chrome-original.svg" alt="Chrome"  width="50" height="50"/>
