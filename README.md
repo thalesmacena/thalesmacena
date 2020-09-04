@@ -88,6 +88,12 @@
   <a href="https://yarnpkg.com/">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/yarn/yarn-original.svg" alt="Yarn"  width="50" height="50"/>
   </a>
+  <a href="https://insomnia.rest/">
+    <img src="https://www.uokpl.rs/fpng/f/429-4297719_insomnia-insomnia-rest.png" alt="Insomnia" width="50" height="50"/>
+  </a>
+  <a href="https://wordpress.org/">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg" alt="Wordpress" width="50" height="50"/>
+  </a>
   <a href="https://code.visualstudio.com/">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="VS Code"  width="50" height="50"/>
   </a>
