@@ -89,10 +89,10 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/yarn/yarn-original.svg" alt="Yarn"  width="50" height="50"/>
   </a>
   <a href="https://www.openapis.org/">
-    <img src="/images/OAS-icon.png" alt="OAS"  width="50" height="50"/> 
+    <img src="https://raw.githubusercontent.com/thalesmacena/thalesmacena/master/images/OAS-icon.png" alt="OAS"  width="50" height="50"/> 
   </a>
   <a href="https://swagger.io">
-    <img src="/images/Swagger-icon.png" alt="Swagger" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/thalesmacena/thalesmacena/master/images/Swagger-icon.png" alt="Swagger" width="50" height="50"/>
   </a>
   <a href="https://insomnia.rest/">
     <img src="https://www.uokpl.rs/fpng/f/429-4297719_insomnia-insomnia-rest.png" alt="Insomnia" width="50" height="50"/>
