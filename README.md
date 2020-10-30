@@ -100,8 +100,11 @@
   <a href="https://insomnia.rest/">
     <img src="https://www.uokpl.rs/fpng/f/429-4297719_insomnia-insomnia-rest.png" alt="Insomnia" width="50" height="50"/>
   </a>
-  <a href="https://wordpress.org/">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg" alt="Wordpress" width="50" height="50"/>
+  <a href="https://trello.com/">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/trello/trello-plain.svg" alt="Trello"  width="50" height="50"/> 
+  </a>
+  <a href="https://hub.docker.com/">
+    <img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-docker-logo.png" alt="Docker" width="50" height="50"/>
   </a>
   <a href="https://code.visualstudio.com/">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="VS Code"  width="50" height="50"/>
