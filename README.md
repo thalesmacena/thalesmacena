@@ -33,8 +33,6 @@
 
 #### - 🥀 Learning PHP  <code><img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="30" height="30"/><img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="php" width="30" height="30"/></code>.
 
-#### - 🎲 Dungeon Master, then you can see my personal projects connected with RPG
-
 <br />
 
 **I am Into , 🔍**
@@ -72,6 +70,9 @@
   </a>
   <a href="https://sequelize.org/master/">
     <img src="https://sequelize.org/master/manual/asset/logo-small.png" alt="Sequelize"  width="50" height="50"/>
+  </a>
+  <a href="https://typeorm.io/">
+    <img src="https://raw.githubusercontent.com/thalesmacena/thalesmacena/master/images/typeorm-logo.png" alt="TypeORM"  width="50" height="50"/>
   </a>
   <a href="https://babeljs.io/">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/babel/babel-original.svg" alt="Babel"  width="50" height="50"/>
