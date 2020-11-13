@@ -96,7 +96,7 @@
   <a href="https://www.mongodb.com/">
     <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="MongoDB"  width="50" height="50"/> 
   </a>
-  <a href="">
+  <a href="https://www.sqlite.org/index.html">
     <img src="https://i2.wp.com/sempreupdate.com.br/wp-content/uploads/2020/01/Sqlite-square-icon.svg_.png?resize=662%2C662&ssl=1" alt="SQLite" width="50" height="50"/>
   </a>
   <a href="https://yarnpkg.com/">
