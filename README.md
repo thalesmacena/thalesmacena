@@ -114,9 +114,6 @@
   <a href="https://colab.research.google.com/notebooks/intro.ipynb#recent=true">
     <img src="https://miro.medium.com/max/512/1*dWlg8C46t_ZJ9P8rc-RyWg.png" alt="Google Colab"  width="50" height="50"/> 
   </a>
-  <a href="https://trello.com/">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/trello/trello-plain.svg" alt="Trello"  width="50" height="50"/> 
-  </a>
   <a href="https://hub.docker.com/">
     <img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-docker-logo.png" alt="Docker" width="50" height="50"/>
   </a>
