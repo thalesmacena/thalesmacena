@@ -108,6 +108,9 @@
   <a href="https://insomnia.rest/">
     <img src="https://www.uokpl.rs/fpng/f/429-4297719_insomnia-insomnia-rest.png" alt="Insomnia" width="50" height="50"/>
   </a>
+  <a href="https://colab.research.google.com/notebooks/intro.ipynb#recent=true">
+    <img src="https://miro.medium.com/max/512/1*dWlg8C46t_ZJ9P8rc-RyWg.png" alt="Google Colab"  width="50" height="50"/> 
+  </a>
   <a href="https://trello.com/">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/trello/trello-plain.svg" alt="Trello"  width="50" height="50"/> 
   </a>
