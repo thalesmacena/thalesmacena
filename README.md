@@ -112,7 +112,7 @@
     <img src="https://raw.githubusercontent.com/thalesmacena/thalesmacena/master/images/Swagger-icon.png" alt="Swagger" width="50" height="50"/>
   </a>
   <a href="https://insomnia.rest/">
-    <img src="https://www.uokpl.rs/fpng/f/429-4297719_insomnia-insomnia-rest.png" alt="Insomnia" width="50" height="50"/>
+    <img src="https://yameo.eu/wp-content/uploads/2019/03/INSOMNIA.png" alt="Insomnia" width="50" height="50"/>
   </a>
   <a href="https://colab.research.google.com/notebooks/intro.ipynb#recent=true">
     <img src="https://miro.medium.com/max/512/1*dWlg8C46t_ZJ9P8rc-RyWg.png" alt="Google Colab"  width="50" height="50"/> 
