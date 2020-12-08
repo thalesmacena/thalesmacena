@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Thales 👨‍💻.</h1> 
-<h3 align="center">But you can also found me as chorival 👾.</h3>
+<h1 align="center">Hi there, I'm Thales <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"></h1> 
+<h3 align="center">But you can also found me as chorival <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='100"'></h3>
 <br/>
 
 <p align="center">
@@ -83,6 +83,9 @@
   </a>
   <a href="https://reactjs.org/">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="React"  width="50" height="50"/>
+  </a>
+  <a href="https://reactnative.dev">
+    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" alt="ReactNative"  width="50" height="50"/>
   </a>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="C"  width="50" height="50"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="Java"  width="50" height="50"/>
