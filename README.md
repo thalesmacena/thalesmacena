@@ -87,7 +87,6 @@
   <a href="https://reactnative.dev">
     <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" alt="ReactNative"  width="50" height="50"/>
   </a>
-  <>
   <a href="https://github.com/infinitered/reactotron">
     <img src="https://github.com/infinitered/reactotron/blob/master/docs/images/readme/Reactotron-128.png?raw=true" alt="Reactotron"  width="50" height="50"/>
   </a>
