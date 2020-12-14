@@ -4,22 +4,22 @@
 
 <p align="center">
   <a href="https://github.com/thalesmacena">
-  <img alt="Github"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/github.svg"/>
+  <img alt="Github"  width="22px" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png"/>
   </a>
   <a href="https://www.linkedin.com/in/thalesmacena/">
-    <img alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img alt="Linkedin" width="22px" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg" />
   </a>
   <a href="https://t.me/chorival">
-    <img alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+    <img alt="Telegram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111644.svg" />
   </a>
   <a href="mailto: thalesmacena@gmail.com">
     <img alt="Gmail" width="22px" src="https://devicons.github.io/devicon/devicon.git/icons/google/google-original.svg" />
   </a>
   <a href="https://www.instagram.com/thalespierini/">
-    <img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img alt="Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
   </a>
   <a href="https://steamcommunity.com/id/Chorival/">
-    <img alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/steam.svg"/>
+    <img alt="Steam" width="22px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/steam-icon.png"/>
   </a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thalesmacena" alt="thalesmacena" /> </p>
@@ -91,8 +91,12 @@
     <img src="https://github.com/infinitered/reactotron/blob/master/docs/images/readme/Reactotron-128.png?raw=true" alt="Reactotron"  width="50" height="50"/>
   </a>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="C"  width="50" height="50"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="Java"  width="50" height="50"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python"  width="50" height="50"/>
+  <a href="https://www.oracle.com/br/java/">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="Java"  width="50" height="50"/>
+  </a>
+  <a href="https://www.python.org/downloads/">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python"  width="50" height="50"/>
+  </a>
   <a href="https://www.mysql.com/">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="MySQL"  width="50" height="50"/>
   </a>
@@ -138,7 +142,9 @@
   <a href="https://code.visualstudio.com/">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="VS Code"  width="50" height="50"/>
   </a>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/chrome/chrome-original.svg" alt="Chrome"  width="50" height="50"/>
+  <a href="https://developers.google.com/web/tools/chrome-devtools">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/chrome/chrome-original.svg" alt="Chrome"  width="50" height="50"/>
+  </a>
   <a href="https://trello.com/">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/trello/trello-plain.svg" alt="Trello"  width="50" height="50"/> 
   </a>
