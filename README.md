@@ -48,7 +48,7 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=thalesmacena&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="my github stats" width="420"/>
     &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesmacena&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesmacena?exclude_repo=Colab-linear-algebra&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="languages" height="165">
   </p>
 </div>
 
