@@ -18,9 +18,6 @@
   <a href="https://www.instagram.com/thalespierini/">
     <img alt="Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
   </a>
-  <a href="https://steamcommunity.com/id/Chorival/">
-    <img alt="Steam" width="22px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/steam-icon.png"/>
-  </a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thalesmacena" alt="thalesmacena" /> </p>
 <br/>
