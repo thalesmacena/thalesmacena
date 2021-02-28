@@ -66,8 +66,14 @@
   <a href="https://getbootstrap.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap"  width="50" height="50"/>
   </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://handlebarsjs.com/" alt="Handlebars"  width="50" height="50"/>
+  </a>
   <a href="https://nodejs.org/en/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.JS"  width="50" height="50"/>
+  </a>
+   <a href="https://expressjs.com/">
+    <img src="https://https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express"  width="50" height="50"/>
   </a>
   <a href="https://sequelize.org/master/">
     <img src="https://sequelize.org/master/manual/asset/logo-small.png" alt="Sequelize"  width="50" height="50"/>
@@ -80,6 +86,12 @@
   </a>
   <a href="https://reactjs.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"  width="50" height="50"/>
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" alt="Next.js"  width="50" height="50"/>
+  </a>
+  <a href="https://react-redux.js.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux"  width="50" height="50"/>
   </a>
   <a href="https://reactnative.dev">
     <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" alt="ReactNative"  width="50" height="50"/>
@@ -129,6 +141,9 @@
   </a>
   <a href="https://colab.research.google.com/notebooks/intro.ipynb#recent=true">
     <img src="https://miro.medium.com/max/512/1*dWlg8C46t_ZJ9P8rc-RyWg.png" alt="Google Colab"  width="50" height="50"/> 
+  </a>
+  <a href="https://heroku.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="Heroku" width="50" height="50"/>
   </a>
   <a href="https://hub.docker.com/">
     <img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-docker-logo.png" alt="Docker" width="50" height="50"/>
