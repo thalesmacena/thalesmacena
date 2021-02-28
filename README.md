@@ -66,14 +66,14 @@
   <a href="https://getbootstrap.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap"  width="50" height="50"/>
   </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://handlebarsjs.com/" alt="Handlebars"  width="50" height="50"/>
+  <a href="https://handlebarsjs.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original.svg" alt="Handlebars"  width="50" height="50"/>
   </a>
   <a href="https://nodejs.org/en/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.JS"  width="50" height="50"/>
   </a>
    <a href="https://expressjs.com/">
-    <img src="https://https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express"  width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express"  width="50" height="50"/>
   </a>
   <a href="https://sequelize.org/master/">
     <img src="https://sequelize.org/master/manual/asset/logo-small.png" alt="Sequelize"  width="50" height="50"/>
@@ -88,7 +88,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"  width="50" height="50"/>
   </a>
   <a href="https://nextjs.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" alt="Next.js"  width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" alt="Next.js"  width="80" height="50"/>
   </a>
   <a href="https://react-redux.js.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux"  width="50" height="50"/>
