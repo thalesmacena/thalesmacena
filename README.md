@@ -28,8 +28,6 @@
 
 #### - 🎓 Computer Science Student at [UFRJ - Universidade Federal do Rio de Janeiro](https://ufrj.br/)
 
-#### - 🥀 Learning PHP
-
 #### - 🚀 Learning Node and React
 
 <br />
