@@ -49,7 +49,7 @@
 
 *************
 
-### - Languages and Tools...
+### - Technologies
 
 <p align="center">
   <a href="https://git-scm.com/">
