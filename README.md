@@ -19,7 +19,7 @@
     <img alt="Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
   </a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thalesmacena" alt="thalesmacena" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thalesmacena&color=F0DB4F&style=flat-square" alt="thalesmacena" /> </p>
 <br/>
 
 ## About Me
