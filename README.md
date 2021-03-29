@@ -80,7 +80,7 @@
     <img src="https://sequelize.org/master/manual/asset/logo-small.png" alt="Sequelize"  width="50" height="50"/>
   </a>
   <a href="https://typeorm.io/">
-    <img src="https://raw.githubusercontent.com/thalesmacena/thalesmacena/master/images/typeorm-icon.png" alt="TypeORM"  width="50" height="50"/>
+    <img src=".github/typeorm-icon.png" alt="TypeORM"  width="50" height="50"/>
   </a>
   <a href="https://babeljs.io/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel"  width="50" height="50"/>
@@ -126,16 +126,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="Yarn"  width="50" height="50"/>
   </a>
   <a href="https://nodemailer.com/about/">
-    <img src="https://raw.githubusercontent.com/thalesmacena/thalesmacena/8625151c41f07665a9ce59efce9aadbfd39c0ccb/images/nodemailer-icon.svg" alt="NodeMailer"  width="50" height="50"/>
+    <img src=".github/nodemailer-icon.svg" alt="NodeMailer"  width="50" height="50"/>
   </a>
   <a href="https://mailtrap.io/">
-    <img src="https://raw.githubusercontent.com/thalesmacena/thalesmacena/8625151c41f07665a9ce59efce9aadbfd39c0ccb/images/mailtrap-icon.svg" alt="MailTrap"  width="50" height="50"/>
+    <img src=".github/mailtrap-icon.svg" alt="MailTrap"  width="50" height="50"/>
   </a>
   <a href="https://www.openapis.org/">
-    <img src="https://raw.githubusercontent.com/thalesmacena/thalesmacena/master/images/OAS-icon.png" alt="OAS"  width="50" height="50"/> 
+    <img src=".github/OAS-icon.png" alt="OAS"  width="50" height="50"/> 
   </a>
   <a href="https://swagger.io">
-    <img src="https://raw.githubusercontent.com/thalesmacena/thalesmacena/master/images/Swagger-icon.png" alt="Swagger" width="50" height="50"/>
+    <img src=".github/Swagger-icon.png" alt="Swagger" width="50" height="50"/>
   </a>
   <a href="https://insomnia.rest/">
     <img src="https://yameo.eu/wp-content/uploads/2019/03/INSOMNIA.png" alt="Insomnia" width="50" height="50"/>
