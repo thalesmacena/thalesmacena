@@ -137,6 +137,9 @@
   <a href="https://swagger.io">
     <img src=".github/Swagger-icon.png" alt="Swagger" width="50" height="50"/>
   </a>
+  <a href="https://github.com/Redocly/redoc">
+    <img src=".github/redoc-icon.svg" alt="Redoc" width="50" height="50"/>
+  </a>
   <a href="https://insomnia.rest/">
     <img src="https://yameo.eu/wp-content/uploads/2019/03/INSOMNIA.png" alt="Insomnia" width="50" height="50"/>
   </a>
