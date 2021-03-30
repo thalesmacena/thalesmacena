@@ -24,7 +24,7 @@
 
 ## About Me
 
-#### - 🖥️ I'm 23 years old Front-end and Back-end Developer.
+#### - 🖥️ I'm 23 years old Full Stack Developer.
 
 #### - 🎓 Computer Science Student at [UFRJ - Universidade Federal do Rio de Janeiro](https://ufrj.br/)
 
