@@ -32,10 +32,7 @@
 
 <br />
 
-**I am Into , 🔍**
-
-**[LADETEC](https://www.ladetec.iq.ufrj.br/) - LABORATÓRIO DE APOIO AO DESENVOLVIMENTO TECNOLÓGICO as a scientific initiation intern 🆘**
-<br />
+**Looking for opportunities 🔍**
 
 *************
 
