@@ -28,7 +28,9 @@
 
 #### - 🎓 Computer Science Student at [UFRJ - Universidade Federal do Rio de Janeiro](https://ufrj.br/)
 
-#### - 🚀 Learning Node and React
+#### - 🚀 Node and React
+
+#### - 💡 Learning Next.js
 
 <br />
 
@@ -44,9 +46,7 @@
   </p>
 </div>
 
-*************
-
-### - Technologies
+## - Technologies
 
 <p align="center">
   <a href="https://git-scm.com/">
