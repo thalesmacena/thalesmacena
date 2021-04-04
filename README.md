@@ -24,18 +24,17 @@
 
 ## About Me
 
-#### - 🖥️ I'm 23 years old Front-end and Back-end Developer.
+#### - 🖥️ I'm 23 years old Full Stack Developer.
 
 #### - 🎓 Computer Science Student at [UFRJ - Universidade Federal do Rio de Janeiro](https://ufrj.br/)
 
-#### - 🚀 Learning Node and React
+#### - 🚀 Node and React
+
+#### - 💡 Learning Next.js
 
 <br />
 
-**I am Into , 🔍**
-
-**[LADETEC](https://www.ladetec.iq.ufrj.br/) - LABORATÓRIO DE APOIO AO DESENVOLVIMENTO TECNOLÓGICO as a scientific initiation intern 🆘**
-<br />
+**Looking for opportunities 🔍**
 
 *************
 
@@ -47,9 +46,7 @@
   </p>
 </div>
 
-*************
-
-### - Technologies
+## - Technologies
 
 <p align="center">
   <a href="https://git-scm.com/">
