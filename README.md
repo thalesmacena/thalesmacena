@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/thalesmacena">
-  <img alt="Github"  width="22px" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png"/>
+    <img alt="Github"  width="22px" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png"/>
   </a>
   <a href="https://www.linkedin.com/in/thalesmacena/">
     <img alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
@@ -124,6 +124,9 @@
   </a>
   <a href="https://yarnpkg.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="Yarn"  width="50" height="50"/>
+  </a>
+  <a href="https://discord.js.org/#/">
+    <img src=".github/discordjs-icon.svg" alt="Discord.js"  width="50" height="50"/>
   </a>
   <a href="https://nodemailer.com/about/">
     <img src=".github/nodemailer-icon.svg" alt="NodeMailer"  width="50" height="50"/>
