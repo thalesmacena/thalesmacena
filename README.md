@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Thales <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"></h1> 
-<h3 align="center">But you can also found me as chorival <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='100"'></h3>
+<h3 align="center">But you can also found me as chorival
 <br/>
 
 <p align="center">
