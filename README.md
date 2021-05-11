@@ -30,7 +30,7 @@
 
 #### - 🚀 Node and React
 
-#### - 💡 Learning Next.js
+#### - 💡 Learning Next.js and Springboot
 
 <br />
 
