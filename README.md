@@ -86,7 +86,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"  width="50" height="50"/>
   </a>
   <a href="https://nextjs.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" alt="Next.js"  width="80" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="Next.js"  width="80" height="50"/>
   </a>
   <a href="https://react-redux.js.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux"  width="50" height="50"/>
