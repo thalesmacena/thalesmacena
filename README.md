@@ -104,6 +104,9 @@
   <a href="https://spring.io/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring"  width="50" height="50"/>
   </a>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src=".github/springboot-icon.svg" alt="Spring Boot" width="50" height="50"/>
+  </a>
   <a href="https://www.python.org/downloads/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"  width="50" height="50"/>
   </a>
