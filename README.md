@@ -28,7 +28,7 @@
 
 #### - 🎓 Computer Science Student at [UFRJ - Universidade Federal do Rio de Janeiro](https://ufrj.br/)
 
-#### - 🚀 Node and React
+#### - 🚀 Node, React and Java
 
 #### - 💡 Learning Next.js and Springboot
 
@@ -100,6 +100,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"  width="50" height="50"/>
   <a href="https://www.oracle.com/br/java/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"  width="50" height="50"/>
+  </a>
+  <a href="https://spring.io/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring"  width="50" height="50"/>
   </a>
   <a href="https://www.python.org/downloads/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"  width="50" height="50"/>
