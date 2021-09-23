@@ -4,19 +4,19 @@
 
 <p align="center">
   <a href="https://github.com/thalesmacena">
-    <img alt="Github"  width="22px" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png"/>
+    <img alt="Github" width="22px" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png"/>
   </a>
   <a href="https://www.linkedin.com/in/thalesmacena/">
     <img alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
   </a>
   <a href="https://t.me/chorival">
-    <img alt="Telegram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111644.svg" />
+    <img alt="Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" />
   </a>
   <a href="mailto: thalesmacena@gmail.com">
     <img alt="Gmail" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" />
   </a>
   <a href="https://www.instagram.com/thalespierini/">
-    <img alt="Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
+    <img alt="Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" />
   </a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thalesmacena&color=F0DB4F&style=flat-square" alt="thalesmacena" /> </p>
@@ -28,7 +28,7 @@
 
 #### - 🎓 Computer Science Student at [UFRJ - Universidade Federal do Rio de Janeiro](https://ufrj.br/)
 
-#### - 🚀 Node, React and Java
+#### - 🚀 Node, React, Angular and Java
 
 #### - 💡 Learning Next.js and Springboot
 
