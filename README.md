@@ -34,7 +34,7 @@
 
 <br />
 
-**Looking for opportunities 🔍**
+**At Akross as Junior Development Analyst🔍**
 
 *************
 
