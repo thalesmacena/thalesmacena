@@ -28,9 +28,9 @@
 
 #### - 🎓 Computer Science Student at [UFRJ - Universidade Federal do Rio de Janeiro](https://ufrj.br/)
 
-#### - 🚀 Node, React, Angular and Java
+#### - 🚀 Node, React (Next.js), Angular and Springboot
 
-#### - 💡 Learning Next.js and Springboot
+#### - 💡 Learning AWS
 
 <br />
 
