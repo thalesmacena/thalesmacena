@@ -24,7 +24,7 @@
 
 ## About Me
 
-#### - 🖥️ I'm 23 years old Full Stack Developer.
+#### - 🖥️ I'm 24 years old Full Stack Developer.
 
 #### - 🎓 Computer Science Student at [UFRJ - Universidade Federal do Rio de Janeiro](https://ufrj.br/)
 
@@ -51,9 +51,6 @@
 <p align="center">
   <a href="https://git-scm.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="GIT"  width="50" height="50"/>
-  </a>
-  <a href="https://about.gitlab.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GITLab"  width="50" height="50"/>
   </a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"  width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"  width="50" height="50"/>
@@ -94,9 +91,6 @@
   <a href="https://reactnative.dev">
     <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" alt="ReactNative"  width="50" height="50"/>
   </a>
-  <a href="https://github.com/infinitered/reactotron">
-    <img src="https://github.com/infinitered/reactotron/blob/master/docs/images/readme/Reactotron-128.png?raw=true" alt="Reactotron"  width="50" height="50"/>
-  </a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"  width="50" height="50"/>
   <a href="https://www.oracle.com/br/java/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"  width="50" height="50"/>
@@ -106,6 +100,12 @@
   </a>
   <a href="https://spring.io/projects/spring-boot">
     <img src=".github/springboot-icon.svg" alt="Spring Boot" width="50" height="50"/>
+  </a>
+  <a href="https://camel.apache.org/docs/">
+    <img src="https://camel.apache.org/_/img/logo-d-f21b25ba38.svg" alt="Apache Camel" width="50" height="50"/>
+  </a>
+  <a href="https://go.dev">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="GOLANG"  width="50" height="50"/>
   </a>
   <a href="https://www.python.org/downloads/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"  width="50" height="50"/>
@@ -125,6 +125,9 @@
   <a href="https://www.sqlite.org/index.html">
     <img src="https://i2.wp.com/sempreupdate.com.br/wp-content/uploads/2020/01/Sqlite-square-icon.svg_.png?resize=662%2C662&ssl=1" alt="SQLite" width="50" height="50"/>
   </a>
+  <a href="https://amazon.com/aws/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"  width="50" height="50"/>
+  </a>
   <a href="https://yarnpkg.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="Yarn"  width="50" height="50"/>
   </a>
@@ -134,17 +137,11 @@
   <a href="https://nodemailer.com/about/">
     <img src=".github/nodemailer-icon.svg" alt="NodeMailer"  width="50" height="50"/>
   </a>
-  <a href="https://mailtrap.io/">
-    <img src=".github/mailtrap-icon.svg" alt="MailTrap"  width="50" height="50"/>
-  </a>
   <a href="https://www.openapis.org/">
     <img src=".github/OAS-icon.png" alt="OAS"  width="50" height="50"/> 
   </a>
   <a href="https://swagger.io">
     <img src=".github/Swagger-icon.png" alt="Swagger" width="50" height="50"/>
-  </a>
-  <a href="https://github.com/Redocly/redoc">
-    <img src=".github/redoc-icon.svg" alt="Redoc" width="50" height="50"/>
   </a>
   <a href="https://insomnia.rest/">
     <img src="https://yameo.eu/wp-content/uploads/2019/03/INSOMNIA.png" alt="Insomnia" width="50" height="50"/>
@@ -160,14 +157,5 @@
   </a>
   <a href="https://wordpress.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="Wordpress" width="50" height="50"/>
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code"  width="50" height="50"/>
-  </a>
-  <a href="https://developers.google.com/web/tools/chrome-devtools">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Chrome"  width="50" height="50"/>
-  </a>
-  <a href="https://trello.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="Trello"  width="50" height="50"/> 
   </a>
 </p>
