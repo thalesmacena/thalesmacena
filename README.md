@@ -159,3 +159,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="Wordpress" width="50" height="50"/>
   </a>
 </p>
+
+## Contribuitions
+![snake gif](https://github.com/thalesmacena/thalesmacena/blob/output/github-contribution-grid-snake.gif)
