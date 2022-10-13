@@ -58,26 +58,14 @@
   <a href="https://www.typescriptlang.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript"  width="50" height="50"/>
   </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap"  width="50" height="50"/>
-  </a>
   <a href="https://handlebarsjs.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original.svg" alt="Handlebars"  width="50" height="50"/>
   </a>
   <a href="https://nodejs.org/en/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.JS"  width="50" height="50"/>
   </a>
-   <a href="https://expressjs.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express"  width="50" height="50"/>
-  </a>
-  <a href="https://sequelize.org/master/">
-    <img src="https://sequelize.org/master/manual/asset/logo-small.png" alt="Sequelize"  width="50" height="50"/>
-  </a>
   <a href="https://typeorm.io/">
     <img src=".github/typeorm-icon.png" alt="TypeORM"  width="50" height="50"/>
-  </a>
-  <a href="https://babeljs.io/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel"  width="50" height="50"/>
   </a>
   <a href="https://reactjs.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"  width="50" height="50"/>
@@ -122,17 +110,12 @@
   <a href="https://redis.io/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis"  width="50" height="50"/> 
   </a>
-  <a href="https://www.sqlite.org/index.html">
-    <img src="https://i2.wp.com/sempreupdate.com.br/wp-content/uploads/2020/01/Sqlite-square-icon.svg_.png?resize=662%2C662&ssl=1" alt="SQLite" width="50" height="50"/>
   </a>
   <a href="https://amazon.com/aws/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"  width="50" height="50"/>
   </a>
   <a href="https://yarnpkg.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="Yarn"  width="50" height="50"/>
-  </a>
-  <a href="https://discord.js.org/#/">
-    <img src=".github/discordjs-icon.svg" alt="Discord.js"  width="50" height="50"/>
   </a>
   <a href="https://nodemailer.com/about/">
     <img src=".github/nodemailer-icon.svg" alt="NodeMailer"  width="50" height="50"/>
@@ -143,19 +126,10 @@
   <a href="https://swagger.io">
     <img src=".github/Swagger-icon.png" alt="Swagger" width="50" height="50"/>
   </a>
-  <a href="https://insomnia.rest/">
-    <img src="https://yameo.eu/wp-content/uploads/2019/03/INSOMNIA.png" alt="Insomnia" width="50" height="50"/>
-  </a>
-  <a href="https://colab.research.google.com/notebooks/intro.ipynb#recent=true">
-    <img src="https://miro.medium.com/max/512/1*dWlg8C46t_ZJ9P8rc-RyWg.png" alt="Google Colab"  width="50" height="50"/> 
-  </a>
   <a href="https://heroku.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="Heroku" width="50" height="50"/>
   </a>
   <a href="https://hub.docker.com/">
     <img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-docker-logo.png" alt="Docker" width="50" height="50"/>
-  </a>
-  <a href="https://wordpress.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="Wordpress" width="50" height="50"/>
   </a>
 </p>
