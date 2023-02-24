@@ -24,7 +24,7 @@
 
 ## About Me
 
-#### - 🖥️ I'm 24 years old Full Stack Developer.
+#### - 🖥️ I'm 25 years old Full Stack Developer.
 
 #### - 🎓 Computer Science Student at [UFRJ - Universidade Federal do Rio de Janeiro](https://ufrj.br/)
 
@@ -34,7 +34,7 @@
 
 <br />
 
-**At Akross as Junior Development Analyst🔍**
+**At Akross as Development Analyst🔍**
 
 *************
 
