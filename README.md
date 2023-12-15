@@ -48,6 +48,25 @@
 
 ## - Technologies
 
+### - Java Stack
+
+<p align="center">
+   <a href="https://www.oracle.com/br/java/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"  width="50" height="50"/>
+  </a>
+  <a href="https://spring.io/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring"  width="50" height="50"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src=".github/springboot-icon.svg" alt="Spring Boot" width="50" height="50"/>
+  </a>
+  <a href="https://pt.quarkus.io/">
+    <img src=".github/quarkus-icon.png" alt="Quarkus" width="50" height="50"/>
+  </a>
+</p>
+
+### - Javascript Stack
+
 <p align="center">
   <a href="https://git-scm.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="GIT"  width="50" height="50"/>
@@ -70,15 +89,17 @@
   <a href="https://nextjs.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="80" height="50" />
   </a>
-  <a href="https://www.oracle.com/br/java/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"  width="50" height="50"/>
+  <a href="https://angular.io/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="Angular" width="80" height="50" />
   </a>
-  <a href="https://spring.io/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring"  width="50" height="50"/>
+  <a href="https://nodemailer.com/about/">
+    <img src=".github/nodemailer-icon.svg" alt="NodeMailer"  width="50" height="50"/>
   </a>
-  <a href="https://spring.io/projects/spring-boot">
-    <img src=".github/springboot-icon.svg" alt="Spring Boot" width="50" height="50"/>
-  </a>
+</p>
+
+### - Other Stacks
+
+<p align="center">
   <a href="https://go.dev">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="GOLANG"  width="50" height="50"/>
   </a>
@@ -88,6 +109,11 @@
   <a href="https://www.mulesoft.com">
     <img src=".github/mulesoft-icon.png" alt="Mulesoft"  width="50" height="50"/>
   </a>
+</p>
+
+### - Cloud
+
+<p align="center">
   <a href="https://www.mysql.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"  width="50" height="50"/>
   </a>
@@ -103,9 +129,6 @@
   </a>
   <a href="https://amazon.com/aws/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"  width="50" height="50"/>
-  </a>
-  <a href="https://nodemailer.com/about/">
-    <img src=".github/nodemailer-icon.svg" alt="NodeMailer"  width="50" height="50"/>
   </a>
   <a href="https://www.openapis.org/">
     <img src=".github/OAS-icon.png" alt="OAS"  width="50" height="50"/> 
