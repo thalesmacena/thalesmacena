@@ -58,26 +58,17 @@
   <a href="https://www.typescriptlang.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript"  width="50" height="50"/>
   </a>
-  <a href="https://handlebarsjs.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original.svg" alt="Handlebars"  width="50" height="50"/>
-  </a>
   <a href="https://nodejs.org/en/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.JS"  width="50" height="50"/>
   </a>
-  <a href="https://typeorm.io/">
-    <img src=".github/typeorm-icon.png" alt="TypeORM"  width="50" height="50"/>
+  <a href="https://nestjs.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="Nestjs"  width="50" height="50" />
   </a>
   <a href="https://reactjs.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"  width="50" height="50"/>
   </a>
   <a href="https://nextjs.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="Next.js"  width="80" height="50"/>
-  </a>
-  <a href="https://react-redux.js.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux"  width="50" height="50"/>
-  </a>
-  <a href="https://reactnative.dev">
-    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" alt="ReactNative"  width="50" height="50"/>
   </a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"  width="50" height="50"/>
   <a href="https://www.oracle.com/br/java/">
@@ -117,20 +108,11 @@
   <a href="https://amazon.com/aws/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"  width="50" height="50"/>
   </a>
-  <a href="https://yarnpkg.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="Yarn"  width="50" height="50"/>
-  </a>
   <a href="https://nodemailer.com/about/">
     <img src=".github/nodemailer-icon.svg" alt="NodeMailer"  width="50" height="50"/>
   </a>
   <a href="https://www.openapis.org/">
     <img src=".github/OAS-icon.png" alt="OAS"  width="50" height="50"/> 
-  </a>
-  <a href="https://swagger.io">
-    <img src=".github/Swagger-icon.png" alt="Swagger" width="50" height="50"/>
-  </a>
-  <a href="https://heroku.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="Heroku" width="50" height="50"/>
   </a>
   <a href="https://hub.docker.com/">
     <img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-docker-logo.png" alt="Docker" width="50" height="50"/>
