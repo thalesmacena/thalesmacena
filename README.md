@@ -70,7 +70,6 @@
   <a href="https://nextjs.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="80" height="50" />
   </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"  width="50" height="50"/>
   <a href="https://www.oracle.com/br/java/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"  width="50" height="50"/>
   </a>
