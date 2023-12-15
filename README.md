@@ -24,13 +24,13 @@
 
 ## About Me
 
-#### - 🖥️ I'm 25 years old Full Stack Developer.
+#### - 🖥️ I'm 26 years old Full Stack Developer.
 
 #### - 🎓 Computer Science Student at [UFRJ - Universidade Federal do Rio de Janeiro](https://ufrj.br/)
 
-#### - 🚀 Node, React (Next.js), Angular and Springboot
+#### - 🚀 Nest, React (Next.js), Angular, Springboot (Spring), AWS
 
-#### - 💡 Learning AWS
+#### - 💡 Learning Go
 
 <br />
 
@@ -97,6 +97,9 @@
   </a>
   <a href="https://www.python.org/downloads/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"  width="50" height="50"/>
+  </a>
+  <a href="https://www.mulesoft.com">
+    <img src=".github/mulesoft-icon.png" alt="Mulesoft"  width="50" height="50"/>
   </a>
   <a href="https://www.mysql.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"  width="50" height="50"/>
