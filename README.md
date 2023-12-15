@@ -80,9 +80,6 @@
   <a href="https://spring.io/projects/spring-boot">
     <img src=".github/springboot-icon.svg" alt="Spring Boot" width="50" height="50"/>
   </a>
-  <a href="https://camel.apache.org/docs/">
-    <img src="https://camel.apache.org/_/img/logo-d-f21b25ba38.svg" alt="Apache Camel" width="50" height="50"/>
-  </a>
   <a href="https://go.dev">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="GOLANG"  width="50" height="50"/>
   </a>
