@@ -28,7 +28,7 @@
 
 #### - 🎓 Computer Science Student at [UFRJ - Universidade Federal do Rio de Janeiro](https://ufrj.br/)
 
-#### - 🚀 Nest, React (Next.js), Angular, Springboot (Spring), AWS
+#### - 🚀 Springboot (Spring), AWS, Nest, React (Next.js) 
 
 #### - 💡 Learning Go
 
@@ -69,9 +69,6 @@
 ### - Javascript Stack
 
 <p align="center">
-  <a href="https://git-scm.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="GIT"  width="50" height="50"/>
-  </a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"  width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"  width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript"  width="50" height="50"/>
@@ -82,19 +79,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.JS"  width="50" height="50"/>
   </a>
   <a href="https://nestjs.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="Nestjs"  width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="Nestjs"  width="50" height="50" />
   </a>
   <a href="https://reactjs.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"  width="50" height="50"/>
   </a>
   <a href="https://nextjs.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="80" height="50" />
-  </a>
-  <a href="https://angular.io/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="Angular" width="80" height="50" />
-  </a>
-  <a href="https://nodemailer.com/about/">
-    <img src=".github/nodemailer-icon.svg" alt="NodeMailer"  width="50" height="50"/>
   </a>
 </p>
 
@@ -106,9 +97,6 @@
   </a>
   <a href="https://www.python.org/downloads/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"  width="50" height="50"/>
-  </a>
-  <a href="https://www.mulesoft.com">
-    <img src=".github/mulesoft-icon.png" alt="Mulesoft"  width="50" height="50"/>
   </a>
 </p>
 
