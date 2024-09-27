@@ -115,7 +115,7 @@
   </a>
   </a>
   <a href="https://amazon.com/aws/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"  width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"  width="50" height="50"/>
   </a>
   <a href="https://www.openapis.org/">
     <img src=".github/OAS-icon.png" alt="OAS"  width="50" height="50"/> 
