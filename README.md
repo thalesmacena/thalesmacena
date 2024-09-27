@@ -28,9 +28,7 @@
 
 #### - 🎓 Computer Science Student at [UFRJ - Universidade Federal do Rio de Janeiro](https://ufrj.br/)
 
-#### - 🚀 Springboot (Spring), AWS, Nest, React (Next.js) 
-
-#### - 💡 Learning Go
+#### - 🚀 Springboot (Spring), AWS, Nest, React (Next.js)
 
 <br />
 
