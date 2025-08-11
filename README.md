@@ -1,126 +1,122 @@
-<h1 align="center">Hi there, I'm Thales <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"></h1> 
-<h3 align="center">But you can also find me as chorival
-<br/>
-
-<p align="center">
-  <a href="https://github.com/thalesmacena">
-    <img alt="Github" width="22px" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png"/>
-  </a>
-  <a href="https://www.linkedin.com/in/thalesmacena/">
-    <img alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
-  </a>
-  <a href="https://t.me/chorival">
-    <img alt="Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" />
-  </a>
-  <a href="mailto: thalesmacena@gmail.com">
-    <img alt="Gmail" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" />
-  </a>
-  <a href="https://www.instagram.com/thalespierini/">
-    <img alt="Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" />
-  </a>
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thalesmacena&color=F0DB4F&style=flat-square" alt="thalesmacena" /> </p>
-<br/>
-
-## About Me
-
-#### - 🖥️ I'm 26 years old Full Stack Developer.
-
-#### - 🎓 Computer Science Student at [UFRJ - Universidade Federal do Rio de Janeiro](https://ufrj.br/)
-
-#### - 🚀 Springboot (Spring), AWS, Nest, React (Next.js)
-
-<br />
-
-**At Akross as Development Analyst🔍**
-
-*************
-
 <div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=thalesmacena&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="my github stats"/>
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesmacena&exclude_repo=Colab-linear-algebra&layout=donut&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="languages" height="195">
-    
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=Building+tomorrow%2C+today;I'm+Thales+Macena;Full+Stack+Developer;Computer+Science+Student;Passionate+about+innovation" alt="Typing SVG" />
 </div>
 
-## - Technologies
+<div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70" alt="coding gif">
+</div>
 
-### - Java Stack
+---
 
-<p align="center">
-   <a href="https://www.oracle.com/br/java/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"  width="50" height="50"/>
-  </a>
-  <a href="https://spring.io/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring"  width="50" height="50"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot">
-    <img src=".github/springboot-icon.svg" alt="Spring Boot" width="50" height="50"/>
-  </a>
-  <a href="https://pt.quarkus.io/">
-    <img src=".github/quarkus-icon.png" alt="Quarkus" width="50" height="50"/>
-  </a>
-</p>
+<div align="center">
+  <h3>🚀 Full Stack Developer | 🎓 Computer Science Student | 🔍 Development Analyst at Akross</h3>
+</div>
 
-### - Javascript Stack
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"  width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"  width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript"  width="50" height="50"/>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript"  width="50" height="50"/>
+<div align="center">
+  <a href="https://github.com/thalesmacena">
+    <img alt="Github" width="32px" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png"/>
   </a>
-  <a href="https://nodejs.org/en/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.JS"  width="50" height="50"/>
+  <a href="https://www.linkedin.com/in/thalesmacena/">
+    <img alt="Linkedin" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
   </a>
-  <a href="https://nestjs.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="Nestjs"  width="50" height="50" />
+  <a href="https://t.me/chorival">
+    <img alt="Telegram" width="32px" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" />
   </a>
-  <a href="https://reactjs.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"  width="50" height="50"/>
+  <a href="mailto:thalesmacena@gmail.com">
+    <img alt="Gmail" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" />
   </a>
-  <a href="https://nextjs.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="80" height="50" />
+  <a href="https://www.instagram.com/thalespierini/">
+    <img alt="Instagram" width="32px" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" />
   </a>
-</p>
+</div>
 
-### - Other Stacks
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=thalesmacena&color=6366F1&style=for-the-badge" alt="thalesmacena" />
+</div>
 
-<p align="center">
-  <a href="https://go.dev">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="GOLANG"  width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org/downloads/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"  width="50" height="50"/>
-  </a>
-</p>
+---
 
-### - Cloud
+## 🎯 About Me
 
-<p align="center">
-  <a href="https://www.mysql.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"  width="50" height="50"/>
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"  width="50" height="50"/> 
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"  width="50" height="50"/> 
-  </a>
-  <a href="https://redis.io/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis"  width="50" height="50"/> 
-  </a>
-  </a>
-  <a href="https://amazon.com/aws/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"  width="50" height="50"/>
-  </a>
-  <a href="https://www.openapis.org/">
-    <img src=".github/OAS-icon.png" alt="OAS"  width="50" height="50"/> 
-  </a>
-  <a href="https://hub.docker.com/">
-    <img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-docker-logo.png" alt="Docker" width="50" height="50"/>
-  </a>
-</p>
+> *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+
+I'm a **27-year-old Full Stack Developer** passionate about creating robust, scalable applications and contributing to open-source projects. Currently pursuing my **Computer Science degree at UFRJ** while working as a **Development Analyst at Akross**.
+
+### 🎓 **Education**
+- **Computer Science** at [Universidade Federal do Rio de Janeiro (UFRJ)](https://ufrj.br/)
+- **Full Stack Development** with focus on Java Spring Boot and JavaScript/TypeScript
+
+### 💼 **Current Role**
+- **Development Analyst** at Akross
+- Specializing in **Spring Boot**, **AWS**, **NestJS**, and **React/Next.js**
+
+---
+
+## 🛠️ Tech Stack
+
+### **Backend Development**
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</div>
+
+### **Frontend Development**
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+</div>
+
+### **Cloud & DevOps**
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thalesmacena&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesmacena&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&exclude_repo=Colab-linear-algebra" alt="Top Languages" />
+</div>
+
+---
+
+## 💡 Fun Facts
+
+- 🎲 **RPG Master** - Experienced Dungeon Master for D&D and other tabletop RPGs
+- 🎸 **Progressive Rock Enthusiast** - Passionate about progressive rock and jazz music
+- ☕ **Amateur Barista** - Possibly the best coffee maker among programmers
+- 🌍 **Cultural Explorer** - Love walking through places and absorbing new cultures
+
+---
+
+<div align="center">
+  <h3>🤝 Let's Connect!</h3>
+  <p>Feel free to reach out if you want to collaborate on projects, discuss technology, or just say hello!</p>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=400&height=30&lines=Thanks+for+visiting!+%F0%9F%8C%9D" alt="Thanks" />
+</div>
+
+---
+
+<div align="center">
+  <sub>⭐ Star this repository if you found it helpful!</sub>
+</div>
