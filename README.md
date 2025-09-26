@@ -40,9 +40,9 @@
 
 ## 🎯 About Me
 
-> *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+> *"nanos gigantum humeris insidentes."* - William of Conches's
 
-I'm a **27-year-old Full Stack Developer** passionate about creating robust, scalable applications and contributing to open-source projects. Currently pursuing my **Computer Science degree at UFRJ** while working as a **Development Analyst at Akross**.
+I'm a **27-year-old Full Stack Developer** passionate about creating robust, scalable applications and building open-source projects. Currently pursuing my **Computer Science degree at UFRJ** while working as a **Development Analyst at Akross**.
 
 ### 🎓 **Education**
 - **Computer Science** at [Universidade Federal do Rio de Janeiro (UFRJ)](https://ufrj.br/)
