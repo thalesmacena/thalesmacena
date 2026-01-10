@@ -93,11 +93,11 @@ I'm a **27-year-old Full Stack Developer** passionate about creating robust, sca
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=thalesmacena&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thalesmacena&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&exclude_repo=Colab-linear-algebra&langs_count=8" alt="Top Languages" />
+  <img height="195" width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=thalesmacena&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="195" width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thalesmacena&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&exclude_repo=Colab-linear-algebra&langs_count=8" alt="Top Languages" />
 </div>
 
----
+
 
 ## 💡 Fun Facts
 
