@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=Building+tomorrow%2C+today;I'm+Thales+Macena;Full+Stack+Developer;Computer+Science+Student;Passionate+about+innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=Building+tomorrow%2C+today;I'm+Thales+Macena;AI+Engineer;Computer+Science+Student;Passionate+about+innovation" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-  <h3>🚀 Full Stack Developer | 🎓 Computer Science Student | 🔍 Development Analyst at Akross</h3>
+  <h3>🚀 Full Stack Developer | 🎓 Computer Science Student | 🤖 AI Engineer at Mercado Libre</h3>
 </div>
 
 ---
@@ -42,19 +42,25 @@
 
 > *"nanos gigantum humeris insidentes."* - William of Conches's
 
-I'm a **27-year-old Full Stack Developer** passionate about creating robust, scalable applications and building open-source projects. Currently pursuing my **Computer Science degree at UFRJ** while working as a **Development Analyst at Akross**.
+I'm a **27-year-old AI Engineer** passionate about creating robust, scalable applications and building open-source projects. Currently pursuing my **Computer Science degree at UFRJ** while working as an **AI Engineer at Mercado Libre**.
 
 ### 🎓 **Education**
 - **Computer Science** at [Universidade Federal do Rio de Janeiro (UFRJ)](https://ufrj.br/)
 - **Full Stack Development** with focus on Java Spring Boot and JavaScript/TypeScript
 
 ### 💼 **Current Role**
-- **Development Analyst** at Akross
-- Specializing in **Spring Boot**, **AWS**, **NestJS**, and **React/Next.js**
+- **AI Engineer** at [Mercado Libre](https://www.mercadolivre.com.br/)
+- Specializing in **Python**, **LangChain**, **Spring Boot**, **AWS**, and **NestJS**
 
 ---
 
 ## 🛠️ Tech Stack
+
+### **AI & Machine Learning**
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+</div>
 
 ### **Backend Development**
 <div align="center">
@@ -63,7 +69,6 @@ I'm a **27-year-old Full Stack Developer** passionate about creating robust, sca
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </div>
 
 ### **Frontend Development**
